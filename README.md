@@ -1,14 +1,13 @@
 # Jiya's Diet — Website
 
-Static website for a Registered Dietitian: diet plans, consultation booking, reviews and FAQ.
+Static website for a Registered Dietitian: diet plans, reviews and FAQ.
 
 ## Pages
 
 | File | Page |
 |---|---|
-| `index.html` | Home (hero, about, plans, reviews, booking, FAQ) |
-| `plan-details.html` | Plan details — one page for all plans via `#weight-loss`, `#diabetic`, `#post-pregnancy` |
-| `consultation.html` | Book a consultation |
+| `index.html` | Home (hero, services, kitchen gallery, reviews, about, FAQ) |
+| `plan-details.html` | Diet plans — swipeable carousel; deep-link via `#weight-loss`, `#diabetic`, `#post-pregnancy` |
 | `about.html` | About the dietitian |
 | `faq.html` | FAQ |
 
@@ -24,4 +23,4 @@ Any static host works:
 ## Still demo (to wire before real orders)
 
 - **Buy now** buttons show a demo message — point them at Razorpay Payment Pages / Instamojo links to take real payments.
-- **Consultation form** shows a success state locally — connect Formspree / Google Forms / WhatsApp to receive enquiries.
+- Contact: `jiyasdiet@gmail.com` (footer of every page).
